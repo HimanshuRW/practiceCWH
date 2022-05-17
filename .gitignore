@@ -1,1 +1,3 @@
-myPersonal.txt
+*.log
+personal/
+Read.txt
