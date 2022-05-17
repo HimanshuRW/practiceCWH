@@ -1,3 +1,4 @@
 *.log
-*.txt
+Readthis.txt
 personal/
+backend/app.js
